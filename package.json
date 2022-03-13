@@ -1,7 +1,6 @@
 {
   "name": "10.oop",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "directories": {
     "lib": "lib"
@@ -15,5 +14,14 @@
   "dependencies": {
     "inquirer": "^8.2.1",
     "jest": "^27.5.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrwj97/TeamProfileGenerator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jrwj97/TeamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/jrwj97/TeamProfileGenerator#readme",
+  "description": ""
 }
