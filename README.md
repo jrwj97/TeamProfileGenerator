@@ -15,6 +15,7 @@
 
   ## Guide
   Run node index in the terminal and follow the prompts!
+  [![Watch the video](./screenshots/Screen-Recording-2022-03-13-at-13.37.22.gif)]
 
   ## License
   This project is licensed under MIT
